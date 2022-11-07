@@ -1,5 +1,0 @@
-# NTI Helpie
-
-## TO DO
-
-
