@@ -5,7 +5,7 @@
 - [x] Add logo to tab
 - [ ] Add NTI logo
 - [ ] Change font
-- [ ] Board page layout
+- [x] Board page layout
   - [ ] Message box
   - [ ] Submit forms
   - [ ] Assist buttons
