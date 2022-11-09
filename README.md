@@ -1,7 +1,7 @@
 # NTI Helpie
 
 ## TO DO
-- [ ] Change log in button visual
+- [x] Change log in button visual
 - [x] Add logo to tab
 - [ ] Add NTI logo
 - [x] Change font
