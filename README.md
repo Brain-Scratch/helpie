@@ -8,7 +8,7 @@
 - [x] Board page layout
   - [x] Message box
   - [x] Submit forms
-  - [ ] Assist buttons
+  - [x] Assist buttons
 
 ## NOTICE
 No safari integration 
