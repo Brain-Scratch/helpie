@@ -3,7 +3,7 @@
 ## TO DO
 - [x] Change log in button visual
 - [x] Add logo to tab
-- [ ] Add NTI logo
+- [x] Add NTI logo
 - [x] Change font
 - [x] Board page layout
   - [ ] Message box
