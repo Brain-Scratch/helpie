@@ -6,8 +6,8 @@
 - [x] Add NTI logo
 - [x] Change font
 - [x] Board page layout
-  - [ ] Message box
-  - [ ] Submit forms
+  - [x] Message box
+  - [x] Submit forms
   - [ ] Assist buttons
 
 ## NOTICE
