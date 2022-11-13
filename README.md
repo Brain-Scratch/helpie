@@ -9,11 +9,11 @@
   - [x] Message box
   - [x] Submit forms
   - [x] Assist buttons
-- [ ] Styling the dashboard
-  - [ ] Add button styling
-  - [ ] Fix logo (sizing / positioning)
-  - [ ] Add input styling
-- [ ] Fixing font (not showing)
+- [x] Styling the dashboard
+  - [x] Add button styling
+  - [x] Fix logo (sizing / positioning)
+  - [x] Add input styling
+- [x] Fixing font (not showing)
 
 ## NOTICE
 No safari integration 
